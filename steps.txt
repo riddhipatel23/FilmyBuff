@@ -1,0 +1,3 @@
+cd /Users/riddhi/Documents/python/internship/FilmyBuff
+source bin/activate
+zappa update --all

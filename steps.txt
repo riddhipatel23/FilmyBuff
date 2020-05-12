@@ -1,3 +1,4 @@
-cd /Users/riddhi/Documents/python/internship/FilmyBuff
-source bin/activate
+cd /path/FilmyBuff
+source virtualenv/bin/activate
+zappa deploy --all
 zappa update --all
